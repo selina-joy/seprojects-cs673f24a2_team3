@@ -12,3 +12,6 @@ Hi my name is Pratyush Patel. I have expertise in data analytics, software engin
 
 ## Team Member Introduction
 Hi, my name is Mingyuan Xu. I have expertise in software development and web application. nice to meet u guys.
+
+## Hengyi Song Introduction
+Hi, my name is Hengyi Song. I have experience in programming languages and software development. Nice to meet you! I'm excited to work with you guys!
