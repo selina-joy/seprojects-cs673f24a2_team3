@@ -1,5 +1,5 @@
 This folder contains all required documents, including SPPP, SDD, STD, meetingminutes and progressreport
-##Iteration 0 Contains:
+## Iteration 0 Contains:
 Proj3_SPPP
 Proj3_SPPP_RiskManagement
 Proj3_progressreport
