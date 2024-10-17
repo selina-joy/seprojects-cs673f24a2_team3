@@ -1,13 +1,13 @@
 This folder contains all required documents, including SPPP, SDD, STD, meetingminutes and progressreport
 ## Iteration 1 Contains:
-ProjX_SPPP (updated or v2)  
-ProjX_meetingminutes (updated)  
-ProjX_progressreport (updated)  
-ProjX_userstories(generated)  
-ProjX_SDD  
-ProjX_Presentation_iter1  
+Proj3_SPPP (updated or v2)  
+Proj3_meetingminutes (updated)  
+Proj3_progressreport (updated)  
+Proj3_userstories(generated)  
+Proj3_SDD  
+Proj3_Presentation_iter1  
 Code/… : runnable source  
-A project demo video  
+Team3_Iteration1_demo  
 ## Iteration 0 Contains:
 Proj3_SPPP  
 Proj3_SPPP_RiskManagement  
