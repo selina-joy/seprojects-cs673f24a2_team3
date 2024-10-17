@@ -5,13 +5,15 @@ This project aims to develop a web-based platform for analyzing and visualizing 
     
 The platform is designed for users such as movie enthusiasts, data analysts, film critics, and researchers who are interested in exploring trends related to movie releases, ratings, genres, and reviews. Key features include visualizations of movie release trends by year, genre, and production country, as well as sentiment analysis of user reviews and the generation of word clouds to highlight commonly used terms in the reviews.
     
-To achieve these goals, the platform utilizes a technology stack centered around Python and the Django framework for backend development, handling server-side logic and database management. The frontend is built with HTML, CSS, and JavaScript, and uses ECharts for creating interactive data visualizations. The MySQL database stores the IMDB movie data, and Pandas is employed for data processing. Git is used for version control, with GitHub supporting collaboration. Specific visualizations, such as pie charts, will be utilized to present the data effectively.       
+To achieve these goals, the platform utilizes a technology stack centered around Python and the Django framework for backend development, handling server-side logic and database management. The frontend is built with HTML, CSS, and JavaScript, and uses ECharts for creating interactive data visualizations. The MySQL database stores the IMDB movie data, and Pandas is employed for data processing. Git is used for version control, with GitHub supporting collaboration. Specific visualizations, such as pie charts, will be utilized to present the data effectively.     
+    
 **Features
 **    
 Visualize Movie Trends: Explore movie release trends by year, genre, and country of production.
 Sentiment Analysis: Analyze user reviews to extract sentiments and display them through visualizations.
 Word Cloud Generation: View common terms from user reviews to understand the most talked-about topics.
 Interactive Data Visualizations: Use ECharts to present data in an engaging and interactive format, such as pie charts and bar graphs.    
+    
 **Technology Stack
 **    
 Backend: Python with Django Framework
